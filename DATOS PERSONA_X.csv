@@ -1,0 +1,300 @@
+Codigo trabajador;Numero Documento;Apellido Paterno;Apellido Materno;Nombre;Sexo;Estado Civil;Hijos;codigo de ubicación;Edad;Area;Sueldo
+A-001;42081933;Zuzunaga;Abad;Hazel;M;S;0;U001;34;Producción;2802
+A-002;97871754;Ziegler;Acuy;Liza;F;S;1;U002;42;Marketing;2327
+A-003;19468514;Ziegler;Acosta;Robert;M;C;1;U003;34;Contabilidad;2130
+A-004;85861125;Zagazeta;Agena;Howard;M;D;1;U004;41;Contabilidad;2715
+A-005;25001261;Waite;Alcantara;Maxine;F;S;1;U003;33;Contabilidad;1725
+A-006;41625663;Viniczay;Alvarado;Joe;M;C;1;U005;18;Producción;2724
+A-007;50237512;Vilela;Ancieta;Gail;M;D;0;U001;34;Producción;1025
+A-008;20825953;Vidalon;Aramburu;Alyssa;F;C;1;U003;24;Contabilidad;2890
+A-009;66852763;Vidal;Arbulu;Sheryl;F;C;0;U006;19;Contabilidad;2153
+A-010;37048296;Vidal;Arens;Brad;M;S;0;U007;38;Finanzas;3142
+A-011;66068357;Vial;Arias;Kendrick;M;S;1;U008;39;Marketing;2260
+A-012;91585582;Velit;Aservi;Ellen;F;S;0;U009;18;Finanzas;2536
+A-013;94838790;Velezmoro;Astengo;Felix;M;C;1;U010;27;Producción;1031
+A-014;26191424;Velasco;Aurich;Mark;M;V;1;U011;42;Producción;1066
+A-015;95930894;Vega;Baertl;Allen;M;C;1;U009;32;Finanzas;2651
+A-016;25034003;Vasquez;Balarezo;Ari;F;V;0;U005;23;Marketing;1893
+A-017;30392473;Vasquez;Ballon Salazar;Sam;F;V;0;U011;23;Producción;1711
+A-018;14388740;Vargas;Barco;Toni;M;D;0;U012;45;Contabilidad;1160
+A-019;93653944;Valdivieso;Barycki;Jeremy;M;C;0;U004;45;Contabilidad;2369
+A-020;63248163;Valdivia;Basurco;Frank;M;S;1;U013;47;Contabilidad;2657
+A-021;98653476;Valdivia;Belaunde;Ralph;M;S;1;U003;19;Finanzas;1841
+A-022;88664838;Valdez;Bellido;Linda;F;S;0;U002;43;Finanzas;2910
+A-023;56118232;Urteaga;Bellido;Burt;M;S;0;U014;41;Contabilidad;2856
+A-024;45327840;Umbert;Benza;Matt;M;C;1;U010;44;Finanzas;3132
+A-025;45223057;Ugas;Beretta;Brent;M;S;1;U004;41;Producción;1417
+A-026;56217854;Ugas;Beretta;Robert;M;C;1;U010;40;Finanzas;1655
+A-027;99585559;Trombetta;Bisiak;Sandrae;F;S;1;U011;18;Marketing;2316
+A-028;61904735;Troll;Blair Ubillus;Phillip;M;C;1;U007;27;Contabilidad;1864
+A-029;25105487;Torres;Bondy;Randy;M;C;1;U015;25;Marketing;1113
+A-030;21918158;Toledo;Borasino;Ariel;M;D;0;U003;30;Producción;1813
+A-031;48093552;Teply;Bouroncle;Randy;M;C;1;U014;28;Marketing;3333
+A-032;36000650;Tarnecci;Bouverie;Ariel;M;S;1;U016;27;Producción;1884
+A-033;37640585;Taboada;Bracesco;Bobby;M;C;1;U013;20;Finanzas;3271
+A-034;32518785;Sun Han;Bravo;Donald;M;D;0;U015;49;Marketing;1275
+A-035;82640233;Suarez;Briceño;Ellen;F;D;0;U012;38;Finanzas;2207
+A-036;77790943;Soto;Bulos;Nate;F;S;0;U017;41;Producción;2374
+A-037;51884861;Sierralta;Bustamante;Tuome;F;C;0;U009;49;Producción;1800
+A-038;60888628;Sessarego;Bustamante;Anna;F;S;0;U009;50;Contabilidad;2915
+A-039;93388355;Servat;Bustios;Mary;F;V;1;U004;38;Marketing;1628
+A-040;12633973;Serquen;Bustios;Tadeuz;M;D;1;U004;19;Contabilidad;2627
+A-041;95164417;Semino;Caballero;Midori;F;C;0;U003;50;Contabilidad;3223
+A-042;69407025;Schroth;Cabrera;Lisa;F;D;0;U009;27;Finanzas;1409
+A-043;45356309;Savage;Camere;Bill;M;S;0;U010;50;Marketing;2767
+A-044;63763497;Sarria;Camino;Susan;F;S;1;U006;25;Marketing;2409
+A-045;18121389;Saona;Campos;Sara;F;V;0;U006;41;Contabilidad;2921
+A-046;89296354;Santillana;Candiotti;Alice;F;C;0;U004;35;Finanzas;1675
+A-047;42703290;Santa Maria;Cane;Cindy;F;S;0;U009;24;Marketing;2648
+A-048;45846576;Sanchez;Cantuarias;Tammy;F;S;1;U002;49;Producción;3235
+A-049;77608983;Sanchez;Cantuarias;Sandra;F;S;1;U014;18;Contabilidad;2848
+A-050;97832722;Sanchez;Cannock;Everett;M;S;1;U013;39;Contabilidad;1956
+A-051;63120488;Sambuceti;Cardi;Pete;M;V;0;U006;34;Contabilidad;1643
+A-052;33723568;Salkeld;Carhuancho;David;M;V;0;U013;48;Producción;1435
+A-053;57962280;Salazar;Castagnino;Jules;M;D;1;U008;34;Contabilidad;3491
+A-054;24275684;Salazar;Casal;Pam;F;S;0;U004;20;Marketing;2649
+A-055;85034882;Salazar;Castagnino;Jessica;F;S;1;U018;35;Contabilidad;1804
+A-056;95727236;Ruiz;Castro Mendivil;Tom;M;V;0;U019;20;Contabilidad;1074
+A-057;28217153;Ruiloba;Cavalie;Karen;F;C;0;U007;44;Marketing;1656
+A-058;16312620;Rubini;Cipriani;Leslie;F;C;0;U006;40;Finanzas;2930
+A-059;89025168;Rossello;Consiglieri;Tommie;M;C;0;U008;40;Contabilidad;1141
+A-060;18631737;Rosholt;Contreras;Iain;F;C;1;U009;29;Finanzas;3324
+A-061;95359865;Romero;Cordova;Alexandra;F;S;1;U009;42;Marketing;1111
+A-062;70485510;Rojas;Coronado;Karen;F;C;1;U014;25;Marketing;1110
+A-063;81456068;Rojas;Coronado;Lisa;F;V;1;U013;47;Contabilidad;2042
+A-064;70422664;Rodriguez;Correa;Evelyn;F;D;1;U010;50;Finanzas;2775
+A-065;18826582;Rodrigo;Corvetto;Lise-Anne;F;C;0;U015;43;Finanzas;1482
+A-066;54662060;Robles;Cubas;Bob;M;V;1;U013;30;Marketing;2761
+A-067;32686194;Robilliard;Cussianovich;Sam;F;V;1;U010;35;Finanzas;2365
+A-068;29374588;Rizo Patron;Chang;Theo;M;S;0;U009;48;Finanzas;3219
+A-069;58065491;Rigacci;Chirinos;Rose;F;D;1;U011;21;Finanzas;2338
+A-070;84911441;Rey;Chue;Dennis;M;D;0;U005;35;Contabilidad;2096
+A-071;81783900;Revoredo;Chumpitasi;Sherrie;F;C;0;U011;33;Producción;2530
+A-072;82873142;Remolina;Damiani;Frank;M;S;1;U004;24;Finanzas;1554
+A-073;25090175;Reategui;De Cardenas;Dave;M;C;1;U006;49;Finanzas;3263
+A-074;71201569;Reategui;De Bernardis;Frank;M;C;1;U011;39;Marketing;1246
+A-075;90738683;Razzeto;De La Guerra;Dave;M;S;1;U009;30;Producción;1444
+A-076;72430233;Razetto;De La Piedra;Janet;F;S;0;U004;33;Marketing;2382
+A-077;24555719;Ramos;De La Piedra;Jaime;M;V;1;U016;50;Producción;1393
+A-078;43717371;Qumsiyeh;De La Puente;Janet;F;D;0;U003;31;Contabilidad;1130
+A-079;68623660;Pozo;De Las Casas;Jaime;M;S;0;U010;22;Producción;1645
+A-080;56353386;Ponce;De Los Rios;Jason;M;C;0;U006;47;Finanzas;2748
+A-081;62914538;Pomareda;De Los Rios;Eric;M;S;0;U005;33;Marketing;3242
+A-082;53595081;Piqueras;De Rutte;Ed;M;S;1;U013;19;Marketing;2025
+A-083;38574560;Peschiera;Del Valle;Cathy;F;C;1;U009;27;Marketing;3117
+A-084;51296401;Perez;Denegri;Isolde;M;D;1;U004;21;Marketing;1338
+A-085;33117441;Pellegrin;Diaz;Steven;M;D;1;U006;45;Contabilidad;2293
+A-086;49666724;Pardo;Dyson;Mark;M;V;0;U020;40;Marketing;2713
+A-087;99101071;Pacheco;Elejalde;Steven;M;S;1;U009;28;Marketing;1795
+A-088;17925324;Pacheco;Elaluf;Mark;M;C;0;U015;43;Marketing;2469
+A-089;73471745;Otoya;Elejalde;Alex;M;C;0;U010;49;Finanzas;3082
+A-090;87869756;Olivares;Eskenazi;Sam;M;S;1;U015;39;Finanzas;3495
+A-091;34692031;Olivares;Escuza;Alex;M;C;0;U017;36;Contabilidad;2581
+A-092;77403256;Oliart;Espinosa;Sam;M;S;1;U003;19;Marketing;1062
+A-093;61308291;Olcese;Estrada;Melia;F;D;0;U019;40;Finanzas;2935
+A-094;55056241;Olcese;Estrada;Stephanie;F;S;1;U010;47;Contabilidad;1008
+A-095;51872487;Nuñez;Fernandez;Eileen;F;C;1;U019;30;Contabilidad;2178
+A-096;81363881;Nicolini;Ferrand;Aaron;M;S;1;U013;21;Producción;3327
+A-097;48807598;Naters;Ferreccio;Malcolm;M;S;0;U015;31;Finanzas;3059
+A-098;69779436;Murdoch;Ferreyros;Daoud;M;S;1;U020;26;Finanzas;3358
+A-099;87733771;Moscol;Figuerola;Caroline;F;C;0;U010;25;Producción;3383
+A-100;81081414;Morelli;Fletcher;Michael;M;C;0;U002;46;Finanzas;2491
+A-101;32465952;Monzon;Freyre;Rowena;F;S;0;U014;39;Finanzas;2322
+A-102;57346177;Montero;Fuentes;Megan;F;C;0;U018;20;Contabilidad;3238
+A-103;57518089;Monge;Gajardo;Melissa;F;S;1;U015;24;Finanzas;2883
+A-104;15935637;Monard;Galarza;Barbara;F;S;0;U013;34;Finanzas;2739
+A-105;20494114;Monard;Galarreta;Lisa;F;C;1;U007;40;Contabilidad;2967
+A-106;94363228;Modenesi;Gallart;Ursula;F;S;1;U012;31;Marketing;1426
+A-107;41220436;Miro Quesada;Gamarra;Ellen;F;S;0;U008;19;Producción;1826
+A-108;57080404;Miranda;Gandolfo;Miguel;M;S;1;U002;41;Marketing;2515
+A-109;98639609;Miranda;Garagorri;Carla;F;S;0;U011;23;Marketing;1965
+A-110;84848597;Mercuriali;Garcia;Rich;M;C;1;U020;36;Producción;1928
+A-111;35882406;Menendez;Garcia;Jean;M;S;1;U012;35;Finanzas;3258
+A-112;24079393;Mendoza;Garcia;Kris;F;D;0;U001;25;Finanzas;2167
+A-113;72345163;Mendivil;Garcia-Pye;Hilda;F;D;0;U010;25;Finanzas;2467
+A-114;16775133;Mendivil;Garland;Rob;M;C;0;U005;29;Producción;2841
+A-115;28222914;Mazzotti;Glathar;Felice;F;S;0;U015;36;Contabilidad;2327
+A-116;72587888;Matellini;Gomez;Charles;M;V;0;U012;48;Marketing;3039
+A-117;67155074;Mata;Gomez;Felice;F;C;0;U018;24;Producción;2924
+A-118;84264143;Massa;Gonzales;Hazel;M;S;0;U020;27;Contabilidad;1827
+A-119;52851824;Mas;Gonzalez;Liza;F;S;1;U013;30;Producción;2001
+A-120;57437700;Martinot;Gonzalez De Mendoza;Robert;M;C;1;U004;30;Producción;1217
+A-121;85962487;Martinez;Gordillo;Howard;M;C;1;U008;22;Contabilidad;3337
+A-122;27576067;Marsano;Gordillo;Maxine;F;C;0;U005;28;Producción;1217
+A-123;85955626;Malpartida;Gubbins;Joe;M;D;0;U015;39;Marketing;2315
+A-124;44667012;Magnifico;Guerinoni;Gail;M;S;1;U012;29;Producción;2557
+A-125;89355049;Maero;Guevara;Alyssa;F;S;1;U015;48;Marketing;3137
+A-126;18786749;Macedo;Guillen;Sheryl;F;C;1;U016;49;Marketing;2452
+A-127;91706646;Luna;Heredia;Brad;M;S;1;U004;47;Finanzas;1602
+A-128;40563459;Lozano;Holguin;Kendrick;M;D;0;U003;37;Contabilidad;2366
+A-129;47827756;Loret De Mola;Housman;Ellen;F;C;0;U018;21;Marketing;2230
+A-130;43731682;Loret De Mola;Honorio;Felix;M;C;0;U015;37;Finanzas;2765
+A-131;21637184;Loayza;Infante;Mark;M;C;1;U005;21;Marketing;1666
+A-132;74016466;Loayza;Infante;Allen;M;S;0;U011;44;Producción;3206
+A-133;6O699287;Llamosas;Henrici;Ari;F;S;1;U014;45;Finanzas;3107
+A-134;94257184;Lizarzaburu;Irazola;Sam;F;D;0;U017;29;Producción;1618
+A-135;44302383;Lister;Jacobs;Toni;M;S;0;U016;35;Finanzas;2642
+A-136;14383281;Lister;Izquierdo;Jeremy;M;C;0;U003;25;Contabilidad;1054
+A-137;74816296;Licera;Jacobs;Frank;M;V;1;U009;25;Contabilidad;2689
+A-138;67620134;Li;Janzic;Ralph;M;C;0;U009;30;Contabilidad;2527
+A-139;93192446;Lescano;Jeanneau;Linda;F;D;1;U017;45;Contabilidad;3354
+A-140;78286733;Leon-Gambetta;Jimenez;Burt;M;C;1;U002;18;Contabilidad;2263
+A-141;67819421;Leon;Jochamowitz;Matt;M;C;0;U020;39;Producción;1786
+A-142;77292677;Lembcke;Kocchiu;Brent;M;C;1;U019;40;Marketing;2139
+A-143;327575O5;Lembcke;Kocchiu;Robert;M;C;1;U014;50;Producción;1133
+A-144;32124482;Leguia;Koechlin;Sandrae;F;C;1;U008;46;Marketing;3077
+A-145;20046022;Lassus;Labarthe;Phillip;M;D;0;U005;35;Finanzas;1151
+A-146;95178097;Landauro;Lapoint;Randy;M;C;1;U008;36;Finanzas;2765
+A-147;61839577;La Rosa;Ledgard;Ariel;M;S;0;U015;43;Marketing;3467
+A-148;45919956;La Rosa;Lazo;Randy;M;S;0;U007;25;Marketing;1456
+A-149;56981964;La Hoz;Leguia;Ariel;M;S;0;U015;25;Producción;1762
+A-150;57297540;Kiss;Leon;Bobby;M;C;0;U013;28;Contabilidad;2217
+A-151;25972795;Kisic;Leon;Donald;M;S;0;U007;37;Finanzas;1933
+A-152;25996338;Kahn;Leon;Ellen;F;C;0;U010;44;Marketing;1628
+A-153;97786061;Jimeno;Leon Velarde;Nate;F;C;1;U020;45;Contabilidad;2320
+A-154;26337721;Jimeno;Leon;Tuome;F;V;0;U007;48;Finanzas;2841
+A-155;54180963;Isola;Loomer;Anna;F;C;1;U010;32;Producción;2278
+A-156;57148175;Iriarte;Loomer;Mary;F;C;1;U018;19;Marketing;1727
+A-157;36073733;Ibañez;Luna;Tadeuz;M;C;0;U013;44;Contabilidad;1671
+A-158;51798354;Huaman De Los Heros;Luna;Midori;F;V;0;U001;34;Contabilidad;1037
+A-159;92883524;Holler;Llaury;Lisa;F;C;0;U002;27;Finanzas;2168
+A-160;31594495;Hiraoka;Llosa;Bill;M;C;1;U019;45;Contabilidad;1386
+A-161;24497515;Hilgert;Mac Lean;Susan;F;S;1;U009;23;Contabilidad;1170
+A-162;99630696;Hidalgo;Madico;Sara;F;S;1;U015;26;Marketing;1251
+A-163;40763545;Heudebert;Madueño;Alice;F;C;0;U015;31;Finanzas;2166
+A-164;24691996;Harmes;Marina;Cindy;F;V;1;U015;36;Contabilidad;2996
+A-165;92130161;Haaker;Martinez;Tammy;F;S;1;U018;38;Marketing;1977
+A-166;40467227;Gygax;Martins;Sandra;F;D;0;U011;31;Contabilidad;2528
+A-167;48107803;Gutierrez;Mejia;Everett;M;V;0;U012;36;Finanzas;2938
+A-168;95286763;Gutierrez;Mc Lauchlan;Pete;M;C;1;U010;24;Producción;2101
+A-169;94178133;Gutierrez;Matzumura;David;M;S;1;U010;41;Contabilidad;2254
+A-170;95407098;Guillen;Melendez;Jules;M;C;0;U015;24;Finanzas;3004
+A-171;85753575;Guillen;Mejia;Pam;F;C;0;U015;22;Marketing;1897
+A-172;67061178;Guerrero;Mellet;Jessica;F;D;0;U017;27;Marketing;1059
+A-173;56473350;Grisolle;Mendoza;Tom;M;S;1;U009;26;Contabilidad;3310
+A-174;56428546;Grandez;Merino;Karen;F;C;1;U009;19;Producción;2926
+A-175;14677272;Grados;Mesarina;Leslie;F;S;1;U017;41;Marketing;2363
+A-176;84993508;Gomez;Miro Quesada;Tommie;M;D;1;U008;30;Marketing;3114
+A-177;14314706;Goicochea;Moller-Hergt;Iain;F;C;0;U019;39;Producción;2946
+A-178;78090189;Gjivanovic;Moncloa;Alexandra;F;S;0;U006;22;Finanzas;2576
+A-179;27775626;Gjivanovic;Moncloa;Karen;F;S;0;U013;22;Marketing;2588
+A-180;31237028;Giorla;Monge;Lisa;F;S;1;U013;49;Marketing;1053
+A-181;68407035;Giha;Montalva;Evelyn;F;C;0;U013;36;Finanzas;1345
+A-182;16703604;Geu;Montoya;Lise-Anne;F;S;0;U005;38;Finanzas;2275
+A-183;55443643;Gereda;Mora;Bob;M;S;0;U009;28;Contabilidad;3478
+A-184;99490546;Garcia-Zabaleta;Morante;Sam;F;C;1;U019;47;Finanzas;2151
+A-185;91176394;Garcia Yrigoyen;More;Theo;M;S;1;U018;48;Finanzas;1930
+A-186;51463431;Garcia;Muro;Rose;F;V;0;U002;39;Producción;2736
+A-187;42878154;Garbin;Narvaez;Dennis;M;C;1;U012;18;Contabilidad;2211
+A-188;78495007;Gallastegui;Neyra;Sherrie;F;S;1;U005;46;Finanzas;3243
+A-189;30983282;Gadea;Nuñez;Frank;M;C;0;U019;29;Producción;2239
+A-190;66541678;Fu;Nuñez;Dave;M;S;1;U012;32;Contabilidad;1171
+A-191;85768977;Freundt;Olaecha;Frank;M;S;0;U012;39;Finanzas;1879
+A-192;20658324;Franco De Souza;Olaechea;Dave;M;S;0;U009;38;Producción;3276
+A-193;83242837;Forti;Olano;Janet;F;S;1;U005;49;Producción;2172
+A-194;58977816;Ferraro;Ormaeche;Jaime;M;S;1;U010;28;Producción;2947
+A-195;45266679;Fernandez-Stoll;Ortiz;Janet;F;S;0;U017;31;Contabilidad;2676
+A-196;95958372;Fernandez;Ortiz;Jaime;M;S;1;U004;46;Marketing;1123
+A-197;59584032;Espinosa;Pacheco;Jason;M;S;1;U013;46;Marketing;3476
+A-198;74534501;Esculies;Palacios;Eric;M;D;0;U016;33;Producción;3325
+A-199;82584754;Elias;Palomino;Ed;M;C;1;U011;43;Producción;3402
+A-200;34321790;Eguiluz;Parra;Cathy;F;S;1;U013;23;Contabilidad;3377
+A-201;73410735;Echevarria;Pastor;Isolde;M;S;0;U011;40;Contabilidad;1649
+A-202;77039602;Echevarria;Passano;Steven;M;C;0;U018;23;Finanzas;2909
+A-203;94076683;Echevarria;Passano;Mark;M;D;1;U004;20;Contabilidad;1811
+A-204;97395446;Dyer;Pastor;Steven;M;S;1;U011;39;Marketing;1716
+A-205;35762723;Ducassi;Paz;Mark;M;C;0;U011;33;Producción;1503
+A-206;50251780;Dubreuil;Paz;Alex;M;S;0;U007;49;Finanzas;1958
+A-207;82288534;Diez Canseco;Paz Soldan;Sam;M;V;0;U018;32;Marketing;2098
+A-208;65953183;Dibos;Pendavis;Alex;M;S;1;U019;27;Marketing;2123
+A-209;71569608;Dianderas;Perez;Sam;M;S;1;U010;32;Marketing;1127
+A-210;35641537;Devercelli;Perez;Melia;F;S;1;U019;23;Finanzas;1581
+A-211;42746062;Delgado;Perez Prieto;Stephanie;F;C;1;U004;41;Finanzas;1327
+A-212;51941027;Dedios;Piedra;Eileen;F;D;0;U013;33;Marketing;3424
+A-213;87106730;Deacon;Pierantoni;Aaron;M;C;1;U004;25;Marketing;1776
+A-214;59079855;De Tramontana;Pinillos;Malcolm;M;D;1;U002;43;Finanzas;2584
+A-215;50911132;De Los Rios;Poli;Daoud;M;S;1;U015;49;Producción;2583
+A-216;14615443;De Los Heros;Poppe;Caroline;F;C;1;U014;22;Contabilidad;3306
+A-217;53839845;De La Torre;Portillo;Michael;M;D;0;U002;42;Marketing;1162
+A-218;69838865;De La Puente;Prias;Rowena;F;C;1;U009;36;Marketing;1210
+A-219;63873159;De La Lama;Proano;Megan;F;C;0;U008;29;Producción;1565
+A-220;19894665;De La Fuente;Protzel;Melissa;F;C;0;U014;37;Finanzas;2063
+A-221;71543540;De La Colina;Purin;Barbara;F;S;0;U009;45;Marketing;3024
+A-222;59691187;De Cossio;Queirolo;Lisa;F;V;0;U020;34;Contabilidad;1374
+A-223;81541248;De Bustamante;Quesada;Ursula;F;S;1;U001;42;Finanzas;2423
+A-224;90536384;Danjoy;Quintero;Ellen;F;C;0;U019;49;Finanzas;3274
+A-225;31574101;Cueva;Reyes;Miguel;M;D;0;U019;43;Contabilidad;1078
+A-226;66706051;Cruz;Rios;Carla;F;S;1;U007;41;Producción;3044
+A-227;24656025;Crovetti;Rivera;Rich;M;S;0;U011;35;Marketing;1567
+A-228;78411472;Crousillat;Rizo Patron;Jean;M;C;0;U016;48;Finanzas;1379
+A-229;89981957;Colmenares;Rodriguez-Larrain;Kris;F;V;1;U002;32;Marketing;1927
+A-230;64359175;Chueca;Quiñones;Hilda;F;D;0;U019;47;Marketing;2224
+A-231;27997674;Chehab;Ramirez;Rob;M;S;1;U019;39;Finanzas;1597
+A-232;16592911;Chavez;Ramos;Felice;F;S;1;U015;41;Producción;3242
+A-233;28695566;Chavez;Ramirez-Gaston;Charles;M;S;1;U011;49;Contabilidad;1637
+A-234;90127292;Chamochumbi;Revilla;Felice;F;S;0;U010;21;Producción;3007
+A-235;98166242;Cespedes;Ruiz;Hazel;M;S;1;U011;40;Contabilidad;2617
+A-236;49028983;Cayo;Sabogal;Liza;F;S;0;U004;25;Contabilidad;1509
+A-237;34688513;Castro;Salas;Robert;M;S;1;U009;43;Finanzas;1537
+A-238;99006973;Castro;Salas;Howard;M;V;1;U013;18;Producción;1826
+A-239;76292905;Castañeda;Salom;Maxine;F;D;0;U020;40;Contabilidad;1289
+A-240;48592495;Castañeda;Sanchez;Joe;M;C;1;U017;35;Producción;1455
+A-241;18076715;Castañeda;Salcedo;Gail;M;V;1;U010;19;Finanzas;2175
+A-242;73183056;Casanova;Sandoval;Alyssa;F;S;0;U010;36;Producción;2639
+A-243;25549154;Carrillo;Sarmiento;Sheryl;F;S;0;U013;20;Marketing;2155
+A-244;85033970;Carrillo;Saric;Brad;M;D;1;U018;48;Finanzas;1943
+A-245;99970846;Carranza;Scamarone;Kendrick;M;V;0;U003;25;Finanzas;2648
+A-246;58833377;Cardenas;Secco;Ellen;F;S;0;U017;43;Producción;1871
+A-247;58855793;Campbell;Servan;Felix;M;S;1;U004;45;Producción;2576
+A-248;97185940;Camino;Servat;Mark;M;V;0;U016;46;Producción;3166
+A-249;84392233;Calmell Del Solar;Silva Santisteban;Allen;M;D;1;U013;29;Producción;3092
+A-250;49558671;Caceres;Sotero;Ari;F;C;0;U003;22;Marketing;1923
+A-251;52588698;Cabrera;Sotillo;Sam;F;C;1;U014;28;Finanzas;2678
+A-252;70660478;Bustamante;Sousa;Toni;M;C;0;U012;32;Marketing;2111
+A-253;33594163;Burgos;Strobbe;Jeremy;M;S;1;U013;38;Producción;3402
+A-254;63972198;Burga;Succar;Frank;M;C;0;U010;31;Finanzas;3015
+A-255;54160259;Burga;Stuva;Ralph;M;V;0;U011;44;Marketing;2600
+A-256;98856440;Brou;Sueyras;Linda;F;S;0;U011;35;Marketing;1400
+A-257;95917049;Brambilla;Taboada;Burt;M;C;1;U011;42;Producción;1958
+A-258;27287123;Boluarte;Taddei;Matt;M;D;0;U009;25;Contabilidad;2556
+A-259;32896849;Biancato;Tami;Brent;M;C;0;U008;47;Producción;3220
+A-260;38914821;Bernal;Tello;Robert;M;S;0;U004;33;Finanzas;1779
+A-261;20222809;Bermudez;Temple;Sandrae;F;S;0;U015;32;Finanzas;2413
+A-262;36500328;Benavides;Tizon;Phillip;M;D;1;U020;22;Marketing;1832
+A-263;19394302;Benavides;Tola;Randy;M;D;1;U014;18;Contabilidad;3451
+A-264;74731703;Benavente;Tori;Ariel;M;V;1;U014;48;Marketing;3421
+A-265;64457819;Bello;Torres;Randy;M;C;0;U002;48;Contabilidad;1229
+A-266;57646161;Bast;Ugarte;Ariel;M;D;0;U006;18;Finanzas;1605
+A-267;67621725;Barreda;Valderrama;Bobby;M;C;1;U011;21;Contabilidad;3407
+A-268;70729610;Bardelli;Valdez;Donald;M;D;1;U017;29;Contabilidad;1679
+A-269;87415781;Barcelos;Valverde;Ellen;F;S;1;U012;46;Contabilidad;2869
+A-270;47691919;Ballen;Vargas;Nate;F;C;1;U015;24;Contabilidad;3070
+A-271;87916134;Balbi;Vargas;Tuome;F;S;0;U014;40;Finanzas;1052
+A-272;82215854;Baca;Vasquez;Anna;F;C;1;U011;27;Contabilidad;1731
+A-273;38898592;Aza;Vattuone;Mary;F;S;1;U003;28;Finanzas;1095
+A-274;62940520;Aspillaga;Velasco;Tadeuz;M;V;1;U003;37;Producción;2119
+A-275;77096335;Ascenzo;Velasco;Midori;F;S;1;U014;34;Marketing;2143
+A-276;78131952;Arteta;Velasco;Lisa;F;C;0;U019;24;Marketing;1305
+A-277;95686459;Arriola;Velayos;Bill;M;C;0;U006;31;Producción;3315
+A-278;87809813;Arrieta;Veliz;Susan;F;V;1;U016;21;Finanzas;1950
+A-279;82041959;Arias;Venegas;Sara;F;C;1;U020;25;Finanzas;3267
+A-280;69076628;Araujo;Vergani;Alice;F;D;0;U007;35;Marketing;1670
+A-281;46131318;Aparicio;Viacava;Cindy;F;C;0;U016;47;Finanzas;2757
+A-282;83630268;Anselmi;Viana;Tammy;F;C;0;U015;32;Producción;2001
+A-283;88463020;Anaya;Vidaurre;Sandra;F;C;0;U011;27;Contabilidad;2207
+A-284;43165408;Anaya;Villacorta;Everett;M;S;0;U004;40;Marketing;2405
+A-285;26638088;Amorrortu;Villacorta;Pete;M;D;1;U013;48;Contabilidad;1608
+A-286;24996071;Alzamora;Villaran;David;M;C;0;U019;28;Marketing;3161
+A-287;94123264;Alvarez Calderon;Visscher;Jules;M;C;0;U020;21;Producción;1407
+A-288;47169426;Alvarez;Vivanco;Pam;F;S;1;U009;26;Marketing;2905
+A-289;14291906;Alonso;Woll;Jessica;F;C;0;U005;18;Marketing;1399
+A-290;13233155;Almenara;Wong;Tom;M;V;0;U006;28;Producción;2316
+A-291;44807146;Aljovin;Woodman;Karen;F;C;1;U012;20;Marketing;1141
+A-292;92537042;Aljovin;Wong;Leslie;F;V;1;U015;24;Finanzas;2217
+A-293;23073898;Alarcon;Yori;Tommie;M;V;1;U019;27;Contabilidad;1133
+A-294;35022708;Alarco;Yunis;Iain;F;C;1;U020;27;Marketing;2097
+A-295;61702358;Aita;Zambrano;Alexandra;F;C;0;U009;32;Marketing;2680
+A-296;99968965;Aguirre;Zarate;Karen;F;S;1;U002;26;Producción;1374
+A-297;71125542;Aguinaga;Zecevic;Lisa;F;C;0;U017;22;Producción;1368
+A-298;45723613;Adrianzen;Zerene;Evelyn;F;C;0;U018;46;Finanzas;3094
+A-299;64220421;Acosta;Zevallos;Lise-Anne;F;C;0;U017;28;Contabilidad;3157
